@@ -1,0 +1,12 @@
+Score1: 4
+Score2: 3
+Score3: 4
+Score4: 4
+Score5: 4
+Score6: 6
+Score7: 2
+Score8: 2
+Score9: 8
+Score10: 3
+Score11: 3
+Score12: 3

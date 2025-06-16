@@ -1,0 +1,45 @@
+{
+    "name": "jake2",
+    "password": "Jake121",
+    "health": 100,
+    "money": 40,
+    "exp": 8,
+    "equipped_weapon": "fishing_rod",
+    "weapons": {
+        "fishing_rod": {
+            "dmg": 2,
+            "attack_speed": 2,
+            "rarity": 1
+        },
+        "wooden_stick": {
+            "dmg": 2,
+            "attack_speed": 1,
+            "rarity": 1
+        }
+    },
+    "inventory": {
+        "weapons": {
+            "fishing_rod": {
+                "dmg": 2,
+                "attack_speed": 2,
+                "rarity": 1
+            },
+            "wooden_stick": {
+                "dmg": 2,
+                "attack_speed": 1,
+                "rarity": 1
+            }
+        },
+        "potions": {
+            "heath_potion": {
+                "quantity": 1,
+                "heal_amount": 10
+            },
+            "mana_potion": {
+                "quantity": 1,
+                "restore_amount": 5
+            }
+        },
+        "fish": []
+    }
+}
