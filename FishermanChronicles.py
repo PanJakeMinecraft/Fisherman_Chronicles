@@ -1,3 +1,4 @@
+# import necessary files and libaries
 import tkinter as tk
 from tkinter.ttk import *
 from tkinter import messagebox, ttk
