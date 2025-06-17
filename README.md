@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tools used
+## 🛠️ Tools used (for implementation)
 - **Python Programming language**
 - **Player Data using JSON**
 - **CSS for styling the application**
