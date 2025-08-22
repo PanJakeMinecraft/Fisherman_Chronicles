@@ -1,6 +1,6 @@
 # 🎣 Fisherman Chronicles
 
-**Fisherman Chronicles** a mixture of **educational application** and **entertainment**, which considered as a part of final project for the first year (second semester) Faculty of Computer and Digital Engineering, Khon Kaen University. Created for the Interactive Programming class.
+**Fisherman Chronicles** a mixture of **educational application** and **entertainment**, which considered as a part of final project for the first year (second semester) Faculty of Computer and Digital Engineering, Khon Kaen University. Created for the Interactive Programming class Final Project.
 
 ---
 
