@@ -11,7 +11,7 @@
 **Fisherman Chronicles** is an educational and gaming application including multiple game modes that challenge both player logic and skills
 ---
 
-## 🎮 Game Modes
+## Game Modes
 
 | Mode              | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tools used (for implementation)
+## Tools used (for implementation)
 - **Python Programming language**
 - **Player Data using JSON**
 - **CSS for styling the application**
