@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 **Fisherman Chronicles** is an educational and gaming application including multiple game modes that challenge both player logic and skills
 ---
